@@ -7,3 +7,4 @@ Masterブランチで変更
 Subのブランチで変更
 Subのブランチで変更
 Subのブランチで変更
+RemoteRepository追加後Masterブランチで変更
